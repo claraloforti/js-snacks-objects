@@ -55,7 +55,7 @@ let zucchine = [
         varieta: "gialla",
         peso: 10,
         lunghezza: 14
-    },
+    }
 ];
 
 // Ciclo le zucchine per trovare il peso totale
