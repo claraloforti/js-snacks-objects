@@ -7,52 +7,52 @@
 let pesoTotale = 0;
 let zucchine = [
     {
-        varietà: "bianca",
+        varieta: "bianca",
         peso: 10,
         lunghezza: 13
     },
     {
-        varietà: "tonda",
+        varieta: "tonda",
         peso: 5,
         lunghezza: 8
     },
     {
-        varietà: "tonda",
+        varieta: "tonda",
         peso: 10,
         lunghezza: 11
     },
     {
-        varietà: "tonda",
+        varieta: "tonda",
         peso: 7,
         lunghezza: 10
     },
     {
-        varietà: "bianca",
+        varieta: "bianca",
         peso: 12,
         lunghezza: 14
     },
     {
-        varietà: "gialla",
+        varieta: "gialla",
         peso: 7,
         lunghezza: 11
     },
     {
-        varietà: "gialla",
+        varieta: "gialla",
         peso: 6,
         lunghezza: 8
     },
     {
-        varietà: "tonda",
+        varieta: "tonda",
         peso: 7,
         lunghezza: 9
     },
     {
-        varietà: "bianca",
+        varieta: "bianca",
         peso: 10,
         lunghezza: 12
     },
     {
-        varietà: "gialla",
+        varieta: "gialla",
         peso: 10,
         lunghezza: 14
     },
